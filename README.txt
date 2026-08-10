@@ -1,20 +1,24 @@
-OCTAVIAN RUSU — PORTFOLIO
+OCTAVIAN RUSU — PREMIUM PORTFOLIO
 
-1. Put each photo in the matching folder inside:
-   images\Sea & Wildlife
-   images\Aerial
-   images\Urban
-   images\Cinematic
-   images\Graphic Design
+IMAGE FOLDERS
+- images/Sea & Wildlife
+- images/Aerial
+- images/Urban
+- images/Cinematic
+- images/Graphic Design
 
-2. Double-click:
-   UPDATE WEBSITE.bat
+ABOUT PHOTO
+Add your portrait here:
+images/about.jpg
 
-3. Open:
-   index.html
+UPDATE
+1. Add/remove photos in the category folders.
+2. Double-click UPDATE WEBSITE.bat.
+3. Open index.html to preview.
+4. Upload the updated index.html and gallery.js (and new images) to GitHub.
 
-The site is completely static: no Wix, no hosting platform required.
-You can upload the whole folder to any static host later (GitHub Pages, Netlify, etc.).
+CONTACT
+Change the email address in index.html:
+hello@octavianrusu.com
 
-Recommended image formats: JPG / JPEG / PNG / WEBP.
-For the best performance, export web images around 2000–3000 px on the long edge.
+The website is static and works perfectly with GitHub Pages.
